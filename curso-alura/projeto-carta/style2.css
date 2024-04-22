@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+/* Estilos para telas pequenas */
+@media only screen and (max-width: 767px) {
+    /* Coloque aqui os estilos específicos para telas pequenas */
+    main {
+        width: 100%;
+    }
+  }
+  
+  /* Estilos para telas médias */
+  @media only screen and (min-width: 768px) and (max-width: 1023px) {
+    /* Coloque aqui os estilos específicos para telas médias */
+    main {
+        width: 100%;
+    }
+  }
+  
+  /* Estilos para telas grandes */
+  @media only screen and (min-width: 1024px) {
+    /* Coloque aqui os estilos específicos para telas grandes */
+    main {
+        width: 100%;
+    }
+  }
